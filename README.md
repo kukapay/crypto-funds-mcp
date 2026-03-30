@@ -20,6 +20,10 @@ An MCP server that provides AI agents with structured, real-time data on cryptoc
 - **Environment Configuration**: API key management via `.env` file with `dotenv`.
 - **Error Handling**: Graceful handling of API errors and missing data.
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/kukapay-crypto-funds-mcp).
+
 ## Installation
 
 ### Prerequisites
